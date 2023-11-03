@@ -26,3 +26,10 @@
      1. The purchase frequency have intially have high distribution and then finally
         have high distribution. But in middle only some avg distribution. so that the avg value is 50  in purchase frequency
      2.  Majority of the features are left skewed distribution(positive skewed data)
+
+# Front End Result
+![image](https://github.com/kaviyarasanEaswaran/Market_Segmentation/assets/129485308/6e17f7a9-687c-432a-9160-e966be4ed83c)
+![image](https://github.com/kaviyarasanEaswaran/Market_Segmentation/assets/129485308/cc606824-d855-46ae-9512-47b9e3c4b871)
+![image](https://github.com/kaviyarasanEaswaran/Market_Segmentation/assets/129485308/5aa3195d-0263-4fdc-a55e-87d7e77d0088)
+
+
