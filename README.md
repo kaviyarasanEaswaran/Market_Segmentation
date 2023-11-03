@@ -6,7 +6,7 @@
 # Objective:
     A case requires to develop a customer segmentation to give recommendations like saving plans, loans,
     wealth management, etc. on target customers groups.
-    ![image](https://github.com/kaviyarasanEaswaran/Market_Segmentation/assets/129485308/72484bee-10b8-41ad-8a81-ef62f9aa269d)
+ ![image](https://github.com/kaviyarasanEaswaran/Market_Segmentation/assets/129485308/72484bee-10b8-41ad-8a81-ef62f9aa269d)
 
 # --Insights--
     1. The avg of each customer have 1577.30 USD balance in their account.
